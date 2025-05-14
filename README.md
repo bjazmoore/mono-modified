@@ -1,6 +1,8 @@
 # mono-modified
 A modified version of the Mono theme for Publii
 
+Download the theme here: [mono 0.3.1.0](https://github.com/bjazmoore/mono-modified/releases/tag/0.3.1.0)
+
 This version allows the newsletter heading and description fields to be user modified in the theme settings.
 
 In the official theme those two elements (newsletter and newsletterDesc) are defined in the mono.lang.json.
